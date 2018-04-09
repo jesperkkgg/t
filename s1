@@ -32,7 +32,7 @@
     "homeAdjumpUrl": "http://res.digitcube.net/ads-page/qyjx/index_qyjx_24A.html",
     "homeHongbaoAdUrl": "",
     "homeHongbaoAdjumpUrl": "",
-    "searchEngine": "0"
+    "searchEngine": "1"
   },
   {
     "version": "1.01.02",
@@ -60,6 +60,6 @@
     "homeAdjumpUrl": "http://res.digitcube.net/ads-page/qyjx/index_qyjx_24A.html",
     "homeHongbaoAdUrl": "",
     "homeHongbaoAdjumpUrl": "",
-    "searchEngine": "0"
+    "searchEngine": "1"
   }
 ]
