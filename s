@@ -20,16 +20,11 @@
       "crc32": "1361004496",
       "inviteInterval": "8640000"
     },
-    "welcome": {
-      "img": "https://raw.githubusercontent.com/jesperkkgg/t/master/qyjx.jpg",
-      "time": 5000,
-      "jump": "http://res.digitcube.net/ads-page/qyjx/index_qyjx_24A.html"
-    },
-    "hotShareUrl": "https://pan.baidu.com/s/1C34x4D9pO32PskUUnennHw",
+    "hotShareUrl": "https://pan.baidu.com/s/1IasOxWhXVYCQdQSZ4KWaeA",
     "followUk": "815985446",
     "followName": "ssssdddd836",
-    "homeAdUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/qyjxb.png",
-    "homeAdjumpUrl": "http://res.digitcube.net/ads-page/qyjx/index_qyjx_24A.html",
+    "homeAdUrl": "",
+    "homeAdjumpUrl": "",
     "homeHongbaoAdUrl": "",
     "homeHongbaoAdjumpUrl": "",
     "searchEngine": "0"
