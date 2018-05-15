@@ -20,7 +20,7 @@
       "crc32": "1361004496",
       "inviteInterval": "8640000"
     },
-    "hotShareUrl": "https://pan.baidu.com/s/1PWPnHboNgxOkJdSaOzkIlg",
+    "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
     "followUk": "815985446",
     "followName": "ssssdddd836",
     "homeAdUrl": "",
