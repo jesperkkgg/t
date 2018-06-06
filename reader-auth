@@ -6,28 +6,16 @@
     "msg": "",
     "inviteMsg": "",
     "update": {
-      "newversion": "1.01.03",
-      "des": "\n\n1,修复登录失败问题，\n2,修复搜索失败问题,\n3,改进搜索引擎",
+      "newversion": "1.01.08",
+      "des": "\n1,增加一个搜索引擎,\n2,新增磁力搜索并离线下载,\n3，增加更多热门分享",
       "size": "3.1M",
       "md5": "",
       "url": "https://pan.baidu.com/s/1Ar3qchLhwxM4EwVzhxPtEw"
     },
     "updateUrl": "https://pan.baidu.com/s/1Ar3qchLhwxM4EwVzhxPtEw",
-    "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
+    "hotShareUrl": "https://pan.baidu.com/s/1GoH_gVSPK5T1XTtWuDegYA",
     "followUk": "815985446",
     "followName": "",
     "searchEngine": "1"
-  },
-  {
-    "version": "1.01.03",
-    "e": true,
-    "md5": "5dbb79803fa652ace529a586fb11ca9b",
-    "msg": "",
-    "inviteMsg": "",
-    "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
-    "followUk": "815985446",
-    "followName": "",
-    "updateUrl": "https://pan.baidu.com/s/1Ar3qchLhwxM4EwVzhxPtEw",
-    "searchEngine": "0"
   }
 ]
