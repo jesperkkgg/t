@@ -23,11 +23,16 @@
     "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
     "followUk": "815985446",
     "followName": "ssssdddd836",
-    "contact": "Q群 696602455 或者搜索 搜藏家",
+    "contact": "Q群 730463012 或者搜索 搜藏家",
     "homeAdUrl": "",
     "homeAdjumpUrl": "",
     "homeHongbaoAdUrl": "",
     "homeHongbaoAdjumpUrl": "",
-    "searchEngine": "0"
+    "searchEngine": "0",
+    "welcome": {
+      "img": "https://raw.githubusercontent.com/jesperkkgg/t/master/alipay.png",
+      "jump": "https://qr.alipay.com/c1x08020qjablpuu0k8qb78",
+      "time": 5000
+    }
   }
 ]
