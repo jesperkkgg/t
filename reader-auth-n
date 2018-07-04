@@ -3,17 +3,31 @@
     "version": "default",
     "e": true,
     "md5": "default",
-    "msg": "",
+    "msg": "旧版本即将停用，请升级到新版10112",
     "inviteMsg": "",
     "update": {
-      "newversion": "1.01.08",
-      "des": "\n1,增加一个搜索引擎,\n2,新增磁力搜索并离线下载,\n3，增加更多热门分享",
+      "newversion": "1.01.12",
+      "des": "\n1,新增小说阅读器，可以直接打开小说等文本文档，\n2，内置播放器，\n3,新增磁力搜索并离线下载,\n4，应用支持分屏，可以边看剧边聊天，\n5，修复保存失败问题",
       "size": "3.1M",
       "md5": "",
       "url": "https://pan.baidu.com/s/1Ar3qchLhwxM4EwVzhxPtEw"
     },
     "updateUrl": "https://pan.baidu.com/s/1Ar3qchLhwxM4EwVzhxPtEw",
     "hotShareUrl": "https://pan.baidu.com/s/1qI4wPRAwUqgit2d9E1AWOw",
-    "promptUrls": "https://bearbt.com/,https://www.bthorse.com/,https://www.btboook.com/,https://www.btrrr.com/,https://www.xiazaisou.com/,https://www.bturl.cc/,http://www.cilimao.me/,https://www.btmule.org/,https://www.btmaye.com/,https://www.kcili.com/"
+    "promptUrls": "https://bearbt.com/,https://www.bthorse.com/,https://www.btboook.com/,https://www.btrrr.com/,https://www.xiazaisou.com/,https://www.bturl.cc/,http://www.cilimao.me/,https://www.btmule.org/,https://www.btmaye.com/,https://www.kcili.com/",
+    "soUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/libvlcjni.zip",
+    "authContact": "授权联系qq：2421116772"
+  },
+  {
+    "version": "10112",
+    "e": true,
+    "md5": "945878972a5a3bef9590874e80a66c95",
+    "msg": "",
+    "inviteMsg": "",
+    "updateUrl": "https://pan.baidu.com/s/1Ar3qchLhwxM4EwVzhxPtEw",
+    "hotShareUrl": "https://pan.baidu.com/s/1qI4wPRAwUqgit2d9E1AWOw",
+    "promptUrls": "https://bearbt.com/,https://www.bthorse.com/,https://www.btboook.com/,https://www.btrrr.com/,https://www.xiazaisou.com/,https://www.bturl.cc/,http://www.cilimao.me/,https://www.btmule.org/,https://www.btmaye.com/,https://www.kcili.com/",
+    "soUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/libvlcjni.zip",
+    "authContact": "授权联系qq：2421116772"
   }
 ]
