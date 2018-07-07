@@ -1,7 +1,7 @@
 [
   {
     "version": "default",
-    "e": true,
+    "e": false,
     "md5": "default",
     "msg": "旧版本即将停用，请升级到新版10112",
     "inviteMsg": "",
@@ -16,7 +16,7 @@
     "hotShareUrl": "https://pan.baidu.com/s/1qI4wPRAwUqgit2d9E1AWOw",
     "promptUrls": "https://bearbt.com/,https://www.bthorse.com/,https://www.btboook.com/,https://www.btrrr.com/,https://www.xiazaisou.com/,https://www.bturl.cc/,http://www.cilimao.me/,https://www.btmule.org/,https://www.btmaye.com/,https://www.kcili.com/",
     "soUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/libvlcjni.zip",
-    "authContact": "授权联系qq：2421116772"
+    "authContact": ""
   },
   {
     "version": "10112",
@@ -28,6 +28,6 @@
     "hotShareUrl": "https://pan.baidu.com/s/1qI4wPRAwUqgit2d9E1AWOw",
     "promptUrls": "https://bearbt.com/,https://www.bthorse.com/,https://www.btboook.com/,https://www.btrrr.com/,https://www.xiazaisou.com/,https://www.bturl.cc/,http://www.cilimao.me/,https://www.btmule.org/,https://www.btmaye.com/,https://www.kcili.com/",
     "soUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/libvlcjni.zip",
-    "authContact": "授权联系qq：2421116772"
+    "authContact": ""
   }
 ]
