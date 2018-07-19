@@ -5,8 +5,8 @@
     "md5": "default",
     "msg": "",
     "update": {
-      "newversion": "1.01.13",
-      "des": "\n1,应用支持分屏，可以边看剧边聊天，\n2，修复保存失败问题,\n3新增小说阅读器，可以直接打开小说等文本文档，\n4，内置播放器",
+      "newversion": "1.02.00",
+      "des": "\n1,支持离线下载更多链接，\n2，支持Vlc播放器3，\n，应用支持分屏，可以边看剧边聊天，\n4，修复保存失败问题",
       "size": "3M",
       "md5": "",
       "url": "https://pan.baidu.com/s/10A0yVDXBS-xXJCfMm063Yg"

@@ -5,19 +5,19 @@
     "md5": "default",
     "msg": "红包每天可领，领了一个后页面那里还有一个消费红包可以领。记得及时使用，有效期3天，可以找我提现哦@@ q3334275359",
     "update": {
-      "newversion": "1.01.13",
-      "des": "\n1,应用支持分屏，可以边看剧边聊天，\n2，修复保存失败问题,\n3新增小说阅读器，可以直接打开小说等文本文档，\n4，内置播放器",
+      "newversion": "1.02.00",
+      "des": "\n1,支持离线下载更多链接，\n2，支持Vlc播放器3，\n，应用支持分屏，可以边看剧边聊天，\n4，修复保存失败问题",
       "size": "3M",
       "md5": "",
       "url": "https://pan.baidu.com/s/10A0yVDXBS-xXJCfMm063Yg"
     },
     "mDynamicCfg": {
-      "path": "/我的资源/网盘搜藏家10108--网盘资源神器，搜索所有网盘公开分享资源,电影电视剧动漫小说软件图片种子等等.apk",
-      "size": "",
-      "md5": "1872e33bfd43955e720ab70096768ef0",
-      "slice": "8882a6b2db7a4ffc09e94b0a01c140f9",
-      "crc32": "4216216475",
-      "inviteInterval": "8640000"
+      "path": "/我的资源/网盘搜藏家10200--你想要的这里都有，把整个互联网保存进你的网盘.apk",
+      "md5": "a19e88aacdcda52aae4388d2a06dfe14",
+      "size": "3610665",
+      "crc32": "4225915146",
+      "slice": "18582deef1d598fa6322413da7608a82",
+      "inviteInterval": "259200"
     },
     "updateUrl": "https://pan.baidu.com/s/10A0yVDXBS-xXJCfMm063Yg",
     "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
