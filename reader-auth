@@ -1,13 +1,13 @@
 [
   {
     "version": "default",
-    "e": true,
+    "e": false,
     "md5": "default",
     "msg": "",
     "inviteMsg": "",
     "update": {
-      "newversion": "1.01.08",
-      "des": "\n1,增加一个搜索引擎,\n2,新增磁力搜索并离线下载,\n3，增加更多热门分享",
+      "newversion": "1.02.01",
+      "des": "\n旧版本已停止使用，请升级\n1,增加一个搜索引擎,\n2,新增磁力搜索并离线下载,\n3，增加更多热门分享",
       "size": "3.1M",
       "md5": "",
       "url": "https://pan.baidu.com/s/1Ar3qchLhwxM4EwVzhxPtEw"

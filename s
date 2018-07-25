@@ -5,8 +5,8 @@
     "md5": "default",
     "msg": "",
     "update": {
-      "newversion": "1.02.00",
-      "des": "\n1,支持离线下载更多链接，\n2，支持Vlc播放器3，\n，应用支持分屏，可以边看剧边聊天，\n4，修复保存失败问题",
+      "newversion": "1.02.01",
+      "des": "\n您在使用旧版本，很多功能已不能正常使用，请升级！\n1,支持离线下载更多链接，\n2，支持Vlc播放器3，\n，应用支持分屏，可以边看剧边聊天，\n4，修复保存失败问题",
       "size": "3M",
       "md5": "",
       "url": "https://pan.baidu.com/s/10A0yVDXBS-xXJCfMm063Yg"
