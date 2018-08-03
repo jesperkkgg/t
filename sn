@@ -19,7 +19,7 @@
         "size": "3610990",
         "crc32": "524569369",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c1",
@@ -28,7 +28,7 @@
         "size": "3610990",
         "crc32": "385008534",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c2",
@@ -37,7 +37,7 @@
         "size": "3610990",
         "crc32": "204036615",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c3",
@@ -46,7 +46,7 @@
         "size": "3610990",
         "crc32": "94360200",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c4",
@@ -55,7 +55,7 @@
         "size": "3610990",
         "crc32": "966682917",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c5",
@@ -64,7 +64,7 @@
         "size": "3610990",
         "crc32": "807985578",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c6",
@@ -73,7 +73,7 @@
         "size": "3610990",
         "crc32": "720599099",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c7",
@@ -82,7 +82,7 @@
         "size": "3610990",
         "crc32": "591786164",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       },
       {
         "name": "c8",
@@ -91,7 +91,7 @@
         "size": "3610990",
         "crc32": "1391464289",
         "slice": "6829902fb2b89cbd655bdbe870deaa60",
-        "inviteInterval": "259200"
+        "inviteInterval": "2592000"
       }
     ],
     "updateUrl": "https://pan.baidu.com/s/10A0yVDXBS-xXJCfMm063Yg",
