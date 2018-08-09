@@ -5,8 +5,8 @@
     "md5": "default",
     "msg": "",
     "update": {
-      "newversion": "1.02.01",
-      "des": "\n您在使用旧版本，很多功能已不能正常使用，请升级！\n1,支持离线下载更多链接，\n2，支持Vlc播放器3，\n，应用支持分屏，可以边看剧边聊天，\n4，修复保存失败问题",
+      "newversion": "1.02.02",
+      "des": "\n您在使用旧版本，很多功能已不能正常使用，请升级！\n1,增加清理网盘垃圾文件，\n2，最新分享恢复按分类浏览，\n3，支持Vlc播放器，\n4，应用支持分屏，可以边看剧边聊天，\n5，修复保存失败问题",
       "size": "3M",
       "md5": "",
       "url": "https://pan.baidu.com/s/10A0yVDXBS-xXJCfMm063Yg"
@@ -16,8 +16,8 @@
     "followUk": "815985446",
     "followName": "ssssdddd836",
     "contact": "Q群 730463012 或者搜索 搜藏家",
-    "homeAdUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/yjns.png",
-    "homeAdjumpUrl": "http://static.173funny.com/dl/c/xdhy-hudie-6.apk",
+    "homeAdUrl": "",
+    "homeAdjumpUrl": "",
     "homeHongbaoAdUrl": "",
     "homeHongbaoAdjumpUrl": "",
     "searchEngine": "0",
