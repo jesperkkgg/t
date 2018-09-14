@@ -106,6 +106,7 @@
     ],
     "promptUrls": "https://www.btboook.com/,https://www.btrrr.com/,https://www.bthorse.com/,https://www.bturl.cc/,http://www.cilimao.me/,https://bearbt.com/,https://www.xiazaisou.com/,https://www.btmule.org/,https://www.btmaye.com/,https://www.kcili.com/",
     "soUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/libvlcjni.zip",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html",
     "freeUseTime": 155520000000,
     "payMsg": "您不能使用此功能，请联系QQ3334275359"
   },
@@ -128,7 +129,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c1",
@@ -149,7 +151,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c2",
@@ -170,7 +173,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c3",
@@ -191,7 +195,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c4",
@@ -212,7 +217,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c5",
@@ -233,7 +239,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c6",
@@ -254,7 +261,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c7",
@@ -275,7 +283,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c8",
@@ -296,7 +305,8 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   },
   {
     "name": "c9",
@@ -317,6 +327,7 @@
       "time": 5000
     },
     "freeUseTime": 155520000000,
-    "payMsg": "您不能使用此功能，请联系QQ3334275359"
+    "payMsg": "您不能使用此功能，请联系QQ3334275359",
+    "homeUrl": "https://raw.githubusercontent.com/jesperkkgg/t/master/home.html"
   }
 ]
