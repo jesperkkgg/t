@@ -114,7 +114,10 @@
     "payBtMsg": "BT下载功能付费才能使用，应用首页的打赏页面点击试用可以免费使用2天此功能。联系QQ3334275359",
     "authQr1": "https://gitee.com/gitauser/t0/raw/master/weixin.png",
     "authQr2": "https://gitee.com/gitauser/t0/raw/master/zhifubao.png",
-    "authContact": "打赏一下，解锁更多新姿势，QQ3334275359"
+    "authContact": "打赏一下，解锁更多新姿势，QQ3334275359",
+    "p": "cr",
+    "i": "ecdea24c92bedbe978191406da52c4c1",
+    "k": "e1cd26b6163b204d59d3c7d189586752"
   },
   {
     "name": "c0",
