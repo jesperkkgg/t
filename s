@@ -3,7 +3,7 @@
     "version": "default",
     "e": false,
     "md5": "default",
-    "msg": "您在使用旧版本，已停止使用，请升级！下载地址：https://pan.baidu.com/s/1XFwxF1QO7KPS8cC5OVkUSw。或者加Q群下载：974563432、272835216、977684484、943294622、866219513  或者搜索q群： 搜藏家",
+    "msg": "您在使用旧版本，已停止使用，请升级！下载地址：https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA。或者加Q群下载：974563432、272835216、977684484、943294622、866219513  或者搜索q群： 搜藏家",
     "welcome": {
       "img": "https://gitee.com/gitauser/t0/raw/master/alipay.png",
       "jump": "https://qr.alipay.com/c1x08020qjablpuu0k8qb78",
@@ -14,9 +14,9 @@
       "des": "\n1,新增磁力链接在线观看，边下边播,\n2，新增磁力链接下载连接服务器，下载连接更快速，\n1.04.00:\n1，增加BT下载到本地,\n2,升级下载模块，速度更快更稳定,\n3,增加设置下载线程数",
       "size": "12M",
       "md5": "",
-      "url": "https://pan.baidu.com/s/1XFwxF1QO7KPS8cC5OVkUSw"
+      "url": "https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA"
     },
-    "updateUrl": "https://pan.baidu.com/s/1XFwxF1QO7KPS8cC5OVkUSw",
+    "updateUrl": "https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA",
     "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
     "followUk": "815985446",
     "followName": "ssssdddd836",
