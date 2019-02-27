@@ -10,10 +10,9 @@
       "time": 5000
     },
     "update": {
-      "newversion": "1.04.04",
-      "des": "\n1,新增磁力链接在线观看，边下边播,\n2，新增磁力链接下载连接服务器，下载连接更快速，\n1.04.00:\n1，增加BT下载到本地,\n2,升级下载模块，速度更快更稳定,\n3,增加设置下载线程数",
-      "size": "12M",
-      "md5": "",
+      "newversion": "1.05.00",
+      "des": "\n1,下载提速,\n2，UI大改版，更美观，操作更方便。\n不能升级的加Q群下载升级: 272835216、977684484、422622427 或者搜索 搜藏家",
+      "size": "6M",
       "url": "https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA"
     },
     "updateUrl": "https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA",
