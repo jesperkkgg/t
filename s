@@ -10,7 +10,7 @@
       "time": 5000
     },
     "update": {
-      "newversion": "1.05.00",
+      "newversion": "1.05.02",
       "des": "\n1,下载提速,\n2，UI大改版，更美观，操作更方便。\n不能升级的加Q群下载升级: 422622427、272835216、600583726、673571470 或者搜索 搜藏家",
       "size": "6M",
       "url": "https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA"
