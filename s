@@ -3,7 +3,7 @@
     "version": "default",
     "e": false,
     "md5": "default",
-    "msg": "您在使用旧版本，已停止使用，请升级！下载地址：https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA。或者加Q群下载：422622427、272835216、600583726、673571470  或者搜索q群： 搜藏家",
+    "msg": "您在使用旧版本，已停止使用，请升级！下载地址：https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j。或者加Q群下载：422622427、272835216、600583726、673571470  或者搜索q群： 搜藏家",
     "welcome": {
       "img": "https://gitee.com/gitauser/t0/raw/master/alipay.png",
       "jump": "https://qr.alipay.com/c1x08020qjablpuu0k8qb78",
@@ -13,9 +13,9 @@
       "newversion": "1.05.02",
       "des": "\n1,下载提速,\n2，UI大改版，更美观，操作更方便。\n不能升级的加Q群下载升级: 422622427、272835216、600583726、673571470 或者搜索 搜藏家",
       "size": "6M",
-      "url": "https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA"
+      "url": "https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j"
     },
-    "updateUrl": "https://pan.baidu.com/s/1AJifXYiFumoIEcRQyGGWwA",
+    "updateUrl": "https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j",
     "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
     "followUk": "815985446",
     "followName": "ssssdddd836",
