@@ -16,7 +16,7 @@
       "url": "https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j"
     },
     "updateUrl": "https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j",
-    "hotShareUrl": "https://pan.baidu.com/s/1w3DjyzZ-jAvCZLNwEXIuIQ",
+    "hotShareUrl": "https://pan.baidu.com/s/1qI4wPRAwUqgit2d9E1AWOw",
     "followUk": "815985446",
     "followName": "ssssdddd836",
     "contact": "Q群 756567731、515984776、600583726、328769168  或者搜索 搜藏家",
