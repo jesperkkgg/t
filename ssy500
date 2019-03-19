@@ -34,14 +34,14 @@
     "version": "default",
     "e": true,
     "s": "5F:1D:24:7B:12:18:10:2F:F4:0D:94:6D:A1:E3:97:F8:D7:E7:CF:1F",
-    "msg": "需要网盘群组的加qq3215629632，不免费。瓜分支付宝15亿大红包，支付宝首页搜索9495229每天抢红包",
+    "msg": "",
     "welcome": {
       "img": "https://gitee.com/gitauser/t0/raw/master/m.jpg",
       "jump": "https://about.utzlvs.com/p/f/fd-jqqeh032/pages/outside/index.html?shareid=2088122254077291&sign=Frqi%2BidcUsXf3REYhDX86HrUN8dTLj9e7kIJfOuu2v4%3D",
       "time": 5000
     },
     "update": {
-      "newversion": "1.05.04",
+      "newversion": "1.05.05",
       "des": "\n1，修复保存失败问题。\n2，修复下载失败问题。\n3，修复播放失败问题。\n4,下载提速。",
       "size": "6M",
       "url": "https://pan.baidu.com/s/1vS_e6kKoESgTonkDzd7Auw 密码：hmuq"
@@ -64,10 +64,10 @@
     "k": "e1cd26b6163b204d59d3c7d189586752"
   },
   {
-    "version": "1.05.04",
+    "version": "1.05.05",
     "e": true,
     "s": "5F:1D:24:7B:12:18:10:2F:F4:0D:94:6D:A1:E3:97:F8:D7:E7:CF:1F",
-    "msg": "需要网盘群组的加qq3215629632，不免费。瓜分支付宝15亿大红包，支付宝首页搜索9495229每天抢红包",
+    "msg": "",
     "welcome": {
       "img": "https://gitee.com/gitauser/t0/raw/master/m.jpg",
       "jump": "https://about.utzlvs.com/p/f/fd-jqqeh032/pages/outside/index.html?shareid=2088122254077291&sign=Frqi%2BidcUsXf3REYhDX86HrUN8dTLj9e7kIJfOuu2v4%3D",
