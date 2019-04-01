@@ -3,15 +3,15 @@
     "version": "default",
     "e": true,
     "md5": "default",
-    "msg": "您在使用旧版本，即将停止使用，请升级！下载地址：https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j。或者加Q群下载：756567731、515984776、600583726、328769168  或者搜索q群： 搜藏家",
+    "msg": "您在使用旧版本，即将停止使用，请升级！下载地址：https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j。或者加Q群下载：515984776、252884491、602534004、572034379、328769168  或者搜索q群： 搜藏家",
     "welcome": {
       "img": "https://gitee.com/gitauser/t0/raw/master/alipay.png",
       "jump": "https://qr.alipay.com/c1x08020qjablpuu0k8qb78",
       "time": 5000
     },
     "update": {
-      "newversion": "1.05.02",
-      "des": "\n1，修复保存失败问题。\n2，修复下载失败问题。\n3，修复播放失败问题。\n4,下载提速。\n不能升级的加Q群下载升级: 756567731、515984776、600583726、328769168 或者搜索 搜藏家",
+      "newversion": "1.05.04",
+      "des": "\n1，修复保存失败问题。\n2，修复下载失败问题。\n3，修复播放失败问题。\n4,下载提速。\n不能升级的加Q群下载升级: 515984776、252884491、602534004、572034379、328769168 或者搜索 搜藏家",
       "size": "6M",
       "url": "https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j"
     },
@@ -19,7 +19,7 @@
     "hotShareUrl": "https://pan.baidu.com/s/1qI4wPRAwUqgit2d9E1AWOw",
     "followUk": "815985446",
     "followName": "ssssdddd836",
-    "contact": "Q群 756567731、515984776、600583726、328769168 或者搜索 搜藏家",
+    "contact": "Q群 515984776、252884491、602534004、572034379、328769168 或者搜索 搜藏家",
     "mDynamicCfg": {
       "path": "/我的资源/网盘搜藏家10504--你想要的这里都有，把整个互联网保存进你的网盘.apk",
       "md5": "1e175c296f72869d3f951b712c3c57a6",
