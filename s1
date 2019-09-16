@@ -10,7 +10,7 @@
       "time": 5000
     },
     "update": {
-      "newversion": "1.05.09",
+      "newversion": "1.05.11",
       "des": "\n1，修复保存失败问题。\n2，修复下载失败问题。\n3，修复播放失败问题。\n4,下载提速。\n不能升级的加Q群下载升级: 631463536 或者搜索 搜藏家",
       "size": "6M",
       "url": "https://pan.baidu.com/s/1Cm9eP8GMvAAW2ikI6f-Y2g 密码： xc5j"
